@@ -23,7 +23,7 @@
 #box11,
 #box12 {
   font-size: 18px;
-  border: solid black 2px;
+  border: solid black 0.5px;
   padding-top: 8px;
   align-items: center;
   justify-content: center;

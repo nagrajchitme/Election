@@ -55,7 +55,7 @@ const App = () => {
           </div>
         </div>
         <div id="box6">
-          <div id="box11">6.Sangappa Ghaleppa</div>
+          <div id="box11">6.Sangappa Ghaleppa chitme</div>
           <div id="box12">
             <div id="box121"></div>
             <div id="box122"></div>
